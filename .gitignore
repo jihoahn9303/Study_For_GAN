@@ -108,7 +108,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 .dmypy.json
-dmypy.json
+dmypy.jsonW
 
 # Pyre type checker
 .pyre/
+
+# log files
+inference_checkpoint/
+results/
